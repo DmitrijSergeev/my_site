@@ -1,0 +1,105 @@
+.container{
+    width: 90%; max-width: 1200px; margin:0 auto;
+}
+header{
+    width: 1100px;
+    height: 100px;
+    position: relative;
+}
+h1{
+   width: 200px;
+   height: 50px;
+   margin-left: 320px; 
+   margin-top: -50px;
+   text-decoration: underline;
+
+}
+.logo{
+    width: 150px;
+    height: 80px;
+    margin-left: -60px;
+}
+menu {
+    position: absolute;
+    display: inline-block;
+    width: 320px;
+    height: 50px;
+    margin-top: -65px;
+    margin-left: 920px;
+}
+.content{
+    position:absolute;
+    display: inline-block;
+    margin-top: -45px;
+    margin-left: -345px;
+    list-style-type:none;
+    width: 300px;
+    font-size: large;
+    font-weight: bold;
+}
+.first{
+    padding: 15px;
+}
+.about{
+    width: 50px;
+    height: 30px;
+    margin-left: 300px;
+    margin-top: 10px;
+    padding: 15px;
+}
+.contacts{
+    width: 50px;
+    height: 30px;
+    margin-left: 410px;
+    margin-top: -60px;
+    padding: 15px;
+}
+.distance{
+    width: 170px;
+    height: 30px;
+    margin-left: 560px;
+    margin-top: -60px;
+    padding: 15px;
+}
+footer{
+    margin-top: 400px;
+    margin-left: -70px;
+    border-top: 2px solid;
+}
+main{
+    margin-top: 150px;
+    margin-left: -45px;
+}
+.image{
+    margin-top:  -265px;
+    margin-left: 800px;
+}
+a{
+    text-decoration: none;
+}
+.enter{
+    padding: 5px;
+}
+.registr{
+    padding: 5px;
+}
+.main-text{
+    margin-top: 10px;
+    padding-top: 20px;
+    font-size: large;
+}
+.form{
+    width: 200px;
+    margin-top: 155px;
+    margin-left: 0px;
+}
+.title_registr{
+    width: 300px;
+}
+input{
+    width: 500px;
+}
+button{
+    margin-top: 20px;
+    background-color: lightblue;
+}
